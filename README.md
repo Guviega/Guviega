@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi! I'm Gustavo Viega</h1>
 
 <p align="center">
-  Systems Analysis and Development student at <strong>IFRS — Osório Campus</strong><br>
+  Systems Analysis and Development student at <strong>IFRS - Campus Osorio</strong><br>
   Exploring ideas, building projects, and learning with every commit. 🚀
 </p>
 
