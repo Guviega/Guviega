@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi! I'm Gustavo Viega</h1>
+<h1 align="center">👋 Hi! I'm Guviega</h1>
 
 <p align="center">
   Systems Analysis and Development student at <strong>IFRS - Campus Osorio</strong><br>
@@ -23,9 +23,9 @@ My latest projects are **GDash** and **FinTracker**. I'm also exploring **Flutte
 My journey spans different areas of software development:
 
 - 💧 **Flutter** - Exploring modern and multiplataform applications, learning a new language and widget-based framework.
-- 🟣 **Kotlin & Compose** — Learning coding modern and native Android interfaces with a Java-based language.
-- ☕ **Java** — My academic language, where I learned OOP and back-end foundations, builting a few projects using Spring Boot.
-- ⚙️ **C** — Practicing logic, memory allocation, and data structure concepts.
+- 🟣 **Kotlin & Compose** - Learning coding modern and native Android interfaces with a Java-based language.
+- ☕ **Java** - My academic language, where I learned OOP and back-end foundations, builting a few projects using Spring Boot.
+- ⚙️ **C** - Practicing logic, memory allocation, and data structure concepts.
 
 ### 📌 Featured and Pinned Projects
 
